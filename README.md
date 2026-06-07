@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/CpkSwWCR)
+[![MasterHead](https://i.ibb.co/7tWGcDQS/Ekran-Resmi-2026-06-07-14-18-52.png)
 <h1 align="center">Hi 👋, I'm Mehmet Hakan</h1>
 <h3 align="center">Production & Planning Manager | Functional Consultant | Frontend Learner</h3>
 
